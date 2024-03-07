@@ -1,14 +1,14 @@
 {
   "dronePlatforms": [
-    "school-platform-1",
-    "school-platform-2",
-    "school-platform-3",
-    "school-platform-4",
-    "school-platform-5",
-    "school-platform-6",
-    "school-platform-7",
-    "school-platform-8",
-    "school-platform-9",
-    "school-platform-10"
+    "school-droneplatform-1",
+    "school-droneplatform-2",
+    "school-droneplatform-3",
+    "school-droneplatform-4",
+    "school-droneplatform-5",
+    "school-droneplatform-6",
+    "school-droneplatform-7",
+    "school-droneplatform-8",
+    "school-droneplatform-9",
+    "school-droneplatform-10"
   ]
 }
