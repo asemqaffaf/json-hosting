@@ -1,7 +1,9 @@
 {
   "meta":{
     "droneSchool-cocapa": {
-      "logo": "https://assets.jcschool.jp/uploads/organization/ogp_image/7/OGP.jpg"
+      "logo": "https://assets.jcschool.jp/uploads/organization/ogp_image/7/OGP.jpg",
+      "loginImage" :"",
+      "footerText":""
     }
 }    
 }
