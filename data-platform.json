@@ -1,6 +1,8 @@
 {
   "dronePlatforms": [
     "droneSchool-cocapa",
+    "droneSchool-cocapa-2",
+    
     "school-droneplatform-1",
     "school-droneplatform-2",
     "school-droneplatform-3",
